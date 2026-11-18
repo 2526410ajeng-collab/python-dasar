@@ -1,0 +1,5 @@
+print(len("Ajeng"))
+print(len([1, 2, 3, 4]))
+print(len({"a": 1, "b": 2}))
+print(max(3, 9, 5))
+print(max("roti", "kue"))
