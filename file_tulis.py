@@ -1,0 +1,5 @@
+f = open("data.txt", "w")
+f.write("Baris pertama\n")
+f.write("Nama saya Ajeng\n")
+f.close()
+print("File data.txt ditulis")
